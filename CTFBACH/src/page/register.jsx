@@ -52,7 +52,7 @@ import "./public/Login.css"
 
 
         <p className="register">
-          Pas encore de compte ? <a href="/inscription">Créer un compte</a>
+          Pas encore de compte ? <a href="/register">Créer un compte</a>
         </p>
 
       </div>
