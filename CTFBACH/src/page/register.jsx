@@ -50,10 +50,6 @@ import "./public/Login.css"
           <div className="divider-line" />
         </div>
 
-        <button className="btn-sso" onClick={() => {}}>
-          <IconBuilding />
-          Continuer avec SSO entreprise
-        </button>
 
         <p className="register">
           Pas encore de compte ? <a href="/inscription">Créer un compte</a>
