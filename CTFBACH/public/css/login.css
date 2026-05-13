@@ -10,15 +10,10 @@ body {
 
 .page {
   min-height: 100vh;
-  background: linear-gradient(
-    135deg,
-    #0b161e,
-    #13258c
-  );
-
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #ffffff;
 
   padding: 2rem;
 
@@ -35,9 +30,7 @@ body {
 
   padding: 48px 42px;
 
-  box-shadow:
-    0 10px 30px rgba(0, 0, 0, 0.15);
-
+ 
   animation: fadeIn 0.4s ease;
 }
 
